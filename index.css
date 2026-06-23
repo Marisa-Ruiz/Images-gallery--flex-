@@ -8,6 +8,8 @@ section{
     justify-content: center;
     gap: 20px;
     padding: 25px;
+    max-width: 1400px;
+    margin: 0 auto;
 }
 article{
     flex: 1 1 400px;
@@ -17,4 +19,7 @@ article{
     box-sizing: border-box;
     border: 1px solid #ccc;
 }
-
+article img{
+    width: 100%;
+    height: auto;
+}
