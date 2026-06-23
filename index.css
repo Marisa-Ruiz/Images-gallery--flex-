@@ -9,4 +9,12 @@ section{
     gap: 20px;
     padding: 25px;
 }
+article{
+    flex: 1 1 400px;
+    max-width: 500px;
+    text-align: center;
+    font-size: 20px;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+}
 
