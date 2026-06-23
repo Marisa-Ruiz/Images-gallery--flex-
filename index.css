@@ -7,7 +7,6 @@ section{
     flex-wrap: wrap;
     justify-content: center;
     gap: 20px;
-    padding: 25px;
     max-width: 1400px;
     margin: 0 auto;
 }
@@ -15,11 +14,14 @@ article{
     flex: 1 1 400px;
     max-width: 500px;
     text-align: center;
-    font-size: 20px;
+    font-size: 18px;
     box-sizing: border-box;
     border: 1px solid #ccc;
 }
 article img{
     width: 100%;
     height: auto;
+}
+p{
+    padding: 10px;
 }
